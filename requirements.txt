@@ -1,0 +1,8 @@
+chromadb
+requests
+beautifulsoup4
+ollama
+sentence-transformers
+colorama
+flask
+python-dotenv

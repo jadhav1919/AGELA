@@ -1,0 +1,9 @@
+{
+  "authorized_targets": [
+    "http://localhost",
+    "http://127.0.0.1",
+    "http://dvwa.local",
+    "http://webgoat.local"
+  ],
+  "notes": "Only add targets you have explicit written authorization to test. Never add targets without permission."
+}
